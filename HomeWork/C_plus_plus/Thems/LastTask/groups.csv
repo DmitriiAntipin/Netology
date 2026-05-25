@@ -1,0 +1,104 @@
+Name,Year,Level,Faculty,Headman,StudentsCount
+CS-101,2021,B,Computer Science,Alexeev,29
+CS-102,2021,B,Computer Science,Borisova,26
+CS-103,2021,B,Computer Science,Volkov,31
+CS-201,2022,B,Computer Science,Grigoriev,27
+CS-202,2022,B,Computer Science,Danilov,30
+CS-301,2023,B,Computer Science,Egorov,28
+CS-302,2023,B,Computer Science,Zhukov,25
+CS-401,2024,B,Computer Science,Zakharov,24
+DS-101,2021,B,Data Science,Ivanova,22
+DS-102,2021,B,Data Science,Kuznetsov,27
+DS-201,2022,B,Data Science,Loginov,29
+DS-202,2022,B,Data Science,Mikhailov,26
+DS-301,2023,B,Data Science,Nikiforov,30
+DS-401,2024,B,Data Science,Orlov,23
+SE-101,2021,B,Software Engineering,Pavlov,28
+SE-102,2021,B,Software Engineering,Popov,31
+SE-201,2022,B,Software Engineering,Romanov,25
+SE-202,2022,B,Software Engineering,Semenov,27
+SE-301,2023,B,Software Engineering,Timofeev,29
+SE-401,2024,B,Software Engineering,Ustinov,22
+AI-101,2021,B,Artificial Intelligence,Fedorov,26
+AI-102,2021,B,Artificial Intelligence,Kharitonov,30
+AI-201,2022,B,Artificial Intelligence,Tsvetkov,24
+AI-301,2023,B,Artificial Intelligence,Chernov,28
+AI-401,2024,B,Artificial Intelligence,Shapovalov,25
+CYB-101,2021,B,Cybersecurity,Yakovlev,27
+CYB-102,2021,B,Cybersecurity,Abramov,29
+CYB-201,2022,B,Cybersecurity,Baranov,26
+CYB-301,2023,B,Cybersecurity,Voronin,31
+CYB-401,2024,B,Cybersecurity,Gromov,23
+MATH-101,2021,B,Mathematics,Dmitriev,28
+MATH-102,2021,B,Mathematics,Emelyanov,25
+MATH-201,2022,B,Mathematics,Zhuravlev,30
+MATH-202,2022,B,Mathematics,Zotov,27
+MATH-301,2023,B,Mathematics,Isaev,29
+MATH-401,2024,B,Mathematics,Kabanov,24
+PHY-101,2021,B,Physics,Kolesnikov,26
+PHY-102,2021,B,Physics,Lavrov,28
+PHY-201,2022,B,Physics,Lapin,31
+PHY-301,2023,B,Physics,Melnikov,25
+PHY-401,2024,B,Physics,Mironov,27
+CHEM-101,2021,B,Chemistry,Nazarov,29
+CHEM-102,2021,B,Chemistry,Nesterov,26
+CHEM-201,2022,B,Chemistry,Ovchinnikov,30
+CHEM-301,2023,B,Chemistry,Panov,24
+CHEM-401,2024,B,Chemistry,Petukhov,28
+BIO-101,2021,B,Biology,Pimenov,27
+BIO-102,2021,B,Biology,Platonov,25
+BIO-201,2022,B,Biology,Polezhaev,29
+BIO-301,2023,B,Biology,Razumov,31
+BIO-401,2024,B,Biology,Ryabov,22
+EC-101,2021,B,Economics,Savin,28
+EC-102,2021,B,Economics,Sviridov,26
+EC-201,2022,B,Economics,Sergeev,30
+EC-202,2022,B,Economics,Sidorov,27
+EC-301,2023,B,Economics,Skvortsov,29
+EC-401,2024,B,Economics,Sobolev,24
+MGMT-101,2021,B,Management,Tikhonov,25
+MGMT-102,2021,B,Management,Trofimov,28
+MGMT-201,2022,B,Management,Filippov,31
+MGMT-301,2023,B,Management,Khokhlov,26
+MGMT-401,2024,B,Management,Tsarev,27
+LAW-101,2021,S,Law,Chistyakov,20
+LAW-102,2021,S,Law,Shiryaev,22
+LAW-201,2022,S,Law,Shcherbakov,23
+LAW-202,2022,S,Law,Yudin,21
+LAW-301,2023,S,Law,Yakushev,24
+LAW-401,2024,S,Law,Yashin,19
+MED-101,2021,S,Medicine,Belov,26
+MED-102,2021,S,Medicine,Belyaev,25
+MED-201,2022,S,Medicine,Vasiliev,27
+MED-202,2022,S,Medicine,Vinogradov,24
+MED-301,2023,S,Medicine,Vlasov,28
+MED-401,2024,S,Medicine,Volodin,23
+ARCH-101,2021,S,Architecture,Gavrilov,22
+ARCH-201,2022,S,Architecture,Gerasimov,24
+ARCH-301,2023,S,Architecture,Golubev,21
+ARCH-401,2024,S,Architecture,Goncharov,20
+PSY-101,2021,S,Psychology,Gusev,25
+PSY-201,2022,S,Psychology,Ermakov,23
+PSY-301,2023,S,Psychology,Efimov,26
+PSY-401,2024,S,Psychology,Efremov,22
+ITM-101,2022,M,IT,Zaitsev,18
+ITM-102,2022,M,IT,Zuev,17
+ITM-201,2023,M,IT,Komarov,16
+ITM-202,2023,M,IT,Kondratiev,19
+ITM-301,2024,M,IT,Korolev,15
+DSM-101,2022,M,Data Science,Loginov,17
+DSM-201,2023,M,Data Science,Makeev,18
+DSM-301,2024,M,Data Science,Maksimov,14
+MATM-101,2022,M,Mathematics,Lebedev,15
+MATM-102,2022,M,Mathematics,Leontiev,16
+MATM-201,2023,M,Mathematics,Sokolov,17
+MATM-202,2023,M,Mathematics,Panin,15
+MATM-301,2024,M,Mathematics,Paramonov,14
+ECM-101,2022,M,Economics,Makarov,19
+ECM-201,2023,M,Economics,Denisov,14
+ECM-301,2024,M,Economics,Dorofeev,15
+LAWM-101,2022,M,Law,Stepanov,13
+LAWM-201,2023,M,Law,Borisov,12
+LAWM-301,2024,M,Law,Bykov,14
+MEDM-101,2023,M,Medicine,Tarasov,11
+MEDM-201,2024,M,Medicine,Terentyev,12
